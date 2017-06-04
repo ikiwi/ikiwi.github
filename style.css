@@ -1,0 +1,18 @@
+body{
+	font-family: Arial;
+	Color:White;
+	background-image: url("https://images5.alphacoders.com/715/thumb-1920-715035.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:Center center;
+	background-size: cover;
+	}
+a{color:White}
+h1{text-align: center;
+	font-size: 30px;}
+table{
+width:100%;}
+table,tr,td{
+border:1px solid white;
+border-collapse:collapse;}
+	
