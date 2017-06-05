@@ -7,10 +7,10 @@ body{
 	background-position:Center center;
 	background-size: cover;
 	}
-a{color:White}
+a{color:White;}
 h1{text-align: center;
 	font-size: 30px;}
-b{color:red}
+b{color:red;}
 table{
 width:100%;}
 table,tr,td{
